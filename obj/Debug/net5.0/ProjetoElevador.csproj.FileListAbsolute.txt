@@ -1,0 +1,16 @@
+D:\ALL_BACKUP\4 - Cursos_e_materiais_de_estudo\MS-DEV C#\PROJETO FINAL - JORNADA MS_files\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ProjetoElevador.exe
+D:\ALL_BACKUP\4 - Cursos_e_materiais_de_estudo\MS-DEV C#\PROJETO FINAL - JORNADA MS_files\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ProjetoElevador.deps.json
+D:\ALL_BACKUP\4 - Cursos_e_materiais_de_estudo\MS-DEV C#\PROJETO FINAL - JORNADA MS_files\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ProjetoElevador.runtimeconfig.json
+D:\ALL_BACKUP\4 - Cursos_e_materiais_de_estudo\MS-DEV C#\PROJETO FINAL - JORNADA MS_files\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ProjetoElevador.runtimeconfig.dev.json
+D:\ALL_BACKUP\4 - Cursos_e_materiais_de_estudo\MS-DEV C#\PROJETO FINAL - JORNADA MS_files\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ProjetoElevador.dll
+D:\ALL_BACKUP\4 - Cursos_e_materiais_de_estudo\MS-DEV C#\PROJETO FINAL - JORNADA MS_files\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ref\ProjetoElevador.dll
+D:\ALL_BACKUP\4 - Cursos_e_materiais_de_estudo\MS-DEV C#\PROJETO FINAL - JORNADA MS_files\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ProjetoElevador.pdb
+D:\ALL_BACKUP\4 - Cursos_e_materiais_de_estudo\MS-DEV C#\PROJETO FINAL - JORNADA MS_files\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.GeneratedMSBuildEditorConfig.editorconfig
+D:\ALL_BACKUP\4 - Cursos_e_materiais_de_estudo\MS-DEV C#\PROJETO FINAL - JORNADA MS_files\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.AssemblyInfoInputs.cache
+D:\ALL_BACKUP\4 - Cursos_e_materiais_de_estudo\MS-DEV C#\PROJETO FINAL - JORNADA MS_files\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.AssemblyInfo.cs
+D:\ALL_BACKUP\4 - Cursos_e_materiais_de_estudo\MS-DEV C#\PROJETO FINAL - JORNADA MS_files\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.csproj.CoreCompileInputs.cache
+D:\ALL_BACKUP\4 - Cursos_e_materiais_de_estudo\MS-DEV C#\PROJETO FINAL - JORNADA MS_files\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.dll
+D:\ALL_BACKUP\4 - Cursos_e_materiais_de_estudo\MS-DEV C#\PROJETO FINAL - JORNADA MS_files\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ref\ProjetoElevador.dll
+D:\ALL_BACKUP\4 - Cursos_e_materiais_de_estudo\MS-DEV C#\PROJETO FINAL - JORNADA MS_files\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.pdb
+D:\ALL_BACKUP\4 - Cursos_e_materiais_de_estudo\MS-DEV C#\PROJETO FINAL - JORNADA MS_files\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.genruntimeconfig.cache
+D:\ALL_BACKUP\4 - Cursos_e_materiais_de_estudo\MS-DEV C#\PROJETO FINAL - JORNADA MS_files\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.csproj.AssemblyReference.cache
